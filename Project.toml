@@ -1,3 +1,11 @@
 [deps]
+AbstractGPs = "99985d1d-32ba-4be9-9821-2ec096f28918"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+LazySets = "b4f0291d-fe17-52bc-9479-3d1a343d9043"
+Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
 Peaks = "18e31ff7-3703-566c-8e60-38913d67486b"
 PlotlyBase = "a03496cd-edff-5a9b-9e67-9cda94a718b5"
+Polyhedra = "67491407-f73d-577b-9b50-8179a7c68029"
+QHull = "a8468747-bd6f-53ef-9e5c-744dbc5c59e7"
+Surrogates = "6fc51010-71bc-11e9-0e15-a3fcc6593c49"
+SurrogatesAbstractGPs = "78aa1720-c2af-471b-b307-964fd38f9b5f"
