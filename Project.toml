@@ -1,6 +1,7 @@
 [deps]
 AbstractGPs = "99985d1d-32ba-4be9-9821-2ec096f28918"
 AlphaShapes = "23a43136-1936-4ec7-b2ed-3a5dbec7203f"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 LazySets = "b4f0291d-fe17-52bc-9479-3d1a343d9043"
 Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
