@@ -1,9 +1,11 @@
 [deps]
 AbstractGPs = "99985d1d-32ba-4be9-9821-2ec096f28918"
 AlphaShapes = "23a43136-1936-4ec7-b2ed-3a5dbec7203f"
+CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 LazySets = "b4f0291d-fe17-52bc-9479-3d1a343d9043"
+MeshCat = "283c5d60-a78f-5afe-a0af-af636b173e11"
 Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
 Peaks = "18e31ff7-3703-566c-8e60-38913d67486b"
 PlotlyBase = "a03496cd-edff-5a9b-9e67-9cda94a718b5"
